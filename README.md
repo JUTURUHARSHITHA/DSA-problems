@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0040-combination-sum-ii) |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

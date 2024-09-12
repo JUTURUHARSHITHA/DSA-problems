@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->

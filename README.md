@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
 |  |
 | ------- |

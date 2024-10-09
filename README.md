@@ -144,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |

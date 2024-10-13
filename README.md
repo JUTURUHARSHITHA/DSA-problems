@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -271,6 +275,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->

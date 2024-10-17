@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
@@ -287,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

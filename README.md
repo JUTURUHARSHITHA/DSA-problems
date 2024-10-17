@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -233,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -322,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |

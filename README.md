@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
+| [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |

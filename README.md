@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

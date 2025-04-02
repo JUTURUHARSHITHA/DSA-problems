@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2681-put-marbles-in-bags) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

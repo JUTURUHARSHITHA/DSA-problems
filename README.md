@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
+| [0797-rabbits-in-forest](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0797-rabbits-in-forest](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0797-rabbits-in-forest) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2155-find-missing-observations) |

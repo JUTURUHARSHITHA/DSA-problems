@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Bit Manipulation
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2155-find-missing-observations) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2998-count-symmetric-integers) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Divide and Conquer
 |  |

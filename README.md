@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1002-maximum-width-ramp) |
+| [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2856-count-complete-subarrays-in-an-array) |

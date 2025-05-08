@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2681-put-marbles-in-bags) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -536,4 +540,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->

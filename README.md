@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum
 |  |
 | ------- |

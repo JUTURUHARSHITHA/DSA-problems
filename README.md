@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |

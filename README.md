@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2681-put-marbles-in-bags) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Prefix Sum

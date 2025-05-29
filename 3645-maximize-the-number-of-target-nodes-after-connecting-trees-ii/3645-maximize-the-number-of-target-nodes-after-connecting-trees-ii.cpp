@@ -1,66 +1,98 @@
 class Solution {
 public:
-    int getNodesAtDistance(int curr,int k,unordered_map<int,vector<int>>&tree,vector<int>&dist){
-        int cnt = 0;
-    queue<int> q;
-    unordered_map<int, bool> visited;
-    visited[curr] = true;
-    q.push(curr);
-    dist[curr] = 0;
-    while (!q.empty()) {
-        int node = q.front();
-        q.pop();
-        for (auto it : tree[node]) {
-            if (!visited[it]) {
-                visited[it] = true;
-                dist[it] = dist[node] + 1; 
-                q.push(it);
-                if (dist[it] % 2 == k) {
-                    cnt++; 
+
+    void get_odd_even(vector<vector<int>> &adj,int node,int &cntOdd,int&  cntEven,vector<int> &parity){
+        queue<int> q;
+        bool flag = true;
+        q.push(node);
+        int size = adj.size();
+
+        vector<int> visited(size,0);
+
+        while(!q.empty()){
+            int elem = q.size();
+            if(flag){
+                cntEven +=elem;
+            }
+            else cntOdd += elem;
+            while(elem--){
+                int temp = q.front();
+                if(flag){
+                    parity[temp] = 0;
+                }
+                else parity[temp] = 1; 
+                q.pop();
+                for(auto nodes : adj[temp]){
+                    if(!visited[nodes]){
+                        visited[nodes] = 1;
+                        q.push(nodes);
+                    }
                 }
             }
+
+            flag = !flag;
         }
+
+
     }
-    return cnt;
-    }
+
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
-        unordered_map<int,vector<int>>tree1,tree2;
-        int n1 = INT_MIN, n2 = INT_MIN;
-        for (auto& edge : edges1) {
-            tree1[edge[0]].push_back(edge[1]);
-            tree1[edge[1]].push_back(edge[0]);
-            n1 = max(n1, max(edge[0], edge[1]));
+        int n = edges1.size() + 1;
+        int m = edges2.size() + 1;
+
+        vector<vector<int>> adj1(n);
+        vector<vector<int>> adj2(m);
+
+        for(int i=0;i<m-1;i++){
+            int u = edges2[i][0];
+            int v = edges2[i][1];
+
+            adj2[u].push_back(v);
+            adj2[v].push_back(u);
         }
-        for (auto& edge : edges2) {
-            tree2[edge[0]].push_back(edge[1]);
-            tree2[edge[1]].push_back(edge[0]);
-            n2 = max(n2, max(edge[0], edge[1]));
+
+        for(int i=0;i<n-1;i++){
+            int u = edges1[i][0];
+            int v = edges1[i][1];
+
+            adj1[u].push_back(v);
+            adj1[v].push_back(u);
+
         }
-        vector<int>ans(n1+1,0);
-        vector<int>distInTree1(n1+1,-1),distInTree2(n2+1,-1);
-        int oddInTree2 = getNodesAtDistance(0,1,tree2,distInTree2);
-        int maxInTree2 = 0;
-        for(int i=0;i<=n2;i++){
-            int currDist = distInTree2[i];
-            int canVisit = 0;
-            if(currDist%2==0){
-                canVisit = oddInTree2;
-            } else {
-                canVisit = n2 + 1 - oddInTree2;
+
+        vector<int> ans;
+
+        int cntOdd_1 = 0;
+        int cntEven_1 = -1;
+        vector<int> parity1(n,-1);
+        vector<int> parity2(m,-1);  // 0 for even and 1 for odd
+
+        get_odd_even(adj1,0,cntOdd_1,cntEven_1,parity1);
+
+        int cntEven_2 = -1;
+        int cntOdd_2 = 0;
+    
+        get_odd_even(adj2,0,cntOdd_2,cntEven_2,parity2);
+        int add = max(cntOdd_2,cntEven_2);
+
+        // cout<<cntOdd_1<<" "<<cntEven_1 <<endl;
+        // cout<<cntOdd_2<< " "<<cntEven_2 << endl;
+
+        // for(int i=0;i<n;i++){
+        //     cout<<parity1[i]<<" ";
+        // }cout<<endl;
+
+        // for(int i=0;i<m;i++){
+        //     cout<<parity2[i]<<" ";
+        // }cout<<endl;
+
+        for(int i=0;i<n;i++){
+            if(parity1[i]== 0){
+                ans.push_back(cntEven_1 + add);
             }
-            maxInTree2 = max(maxInTree2,canVisit);
+            else ans.push_back(cntOdd_1 + add);
         }
-        int evenInTree1 = 1 + getNodesAtDistance(0,0,tree1,distInTree1);
-        for(int i=0;i<=n1;i++){
-            int currDist = distInTree1[i];
-            int canVisit = 0;
-            if(currDist % 2== 0){
-                canVisit = evenInTree1;
-            } else {
-                canVisit = n1 + 1 - evenInTree1;
-            }
-            ans[i] = canVisit + maxInTree2;
-        }
+
         return ans;
     }
 };

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2755-extra-characters-in-a-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack

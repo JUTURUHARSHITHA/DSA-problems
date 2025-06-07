@@ -1,40 +1,29 @@
 class Solution {
 public:
-    class cmp {
-    public:
-        bool operator()(pair<char, int> &a, pair<char, int> &b) {
-            if (a.first > b.first) return true;
-            else if (a.first == b.first && a.second < b.second) return true;
-            return false;
-        }
-    };
-
     string clearStars(string s) {
         int n = s.size();
-        map<int, char> mp;
-        priority_queue<pair<char, int>, vector<pair<char, int>>, cmp> pq;
-
-        for (int i = 0; i < n; i++) {
-            if (s[i] != '*')
-                mp[i] = s[i];
-        }
+        priority_queue<char, vector<char>, greater<char>> pq;  
+        unordered_map<char, vector<int>> m;  
+        vector<bool> v(n, true);  
 
         for (int i = 0; i < n; i++) {
             if (s[i] == '*') {
-                char ch = pq.top().first;
-                int index = pq.top().second;
+                char temp = pq.top();  
                 pq.pop();
-                mp.erase(index);
+                int last = m[temp].back();  
+                m[temp].pop_back();
+                v[i] = false;       
+                v[last] = false;    
+            } else {
+                pq.push(s[i]);
+                m[s[i]].push_back(i);
             }
-            else
-                pq.push({s[i], i});
         }
 
-        string ans = "";
-        for (auto it : mp) {
-            ans += it.second;
+        string result = "";
+        for (int i = 0; i < n; i++) {
+            if (v[i]) result += s[i];
         }
-
-        return ans;
+        return result;
     }
 };

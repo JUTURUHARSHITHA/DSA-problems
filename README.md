@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0368-largest-divisible-subset) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |

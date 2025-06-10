@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |

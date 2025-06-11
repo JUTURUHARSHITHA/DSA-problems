@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0040-combination-sum-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |

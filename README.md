@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |

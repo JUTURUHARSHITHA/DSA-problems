@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0039-combination-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0792-binary-search) |

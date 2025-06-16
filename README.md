@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |

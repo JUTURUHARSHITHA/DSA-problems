@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2616-maximal-score-after-applying-k-operations) |

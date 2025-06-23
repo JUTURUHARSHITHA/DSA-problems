@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2155-find-missing-observations) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3201-distribute-candies-among-children-ii) |

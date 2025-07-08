@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0868-push-dominoes) |
 | [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |

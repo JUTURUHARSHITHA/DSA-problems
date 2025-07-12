@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0868-push-dominoes) |
 | [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Tree
 |  |

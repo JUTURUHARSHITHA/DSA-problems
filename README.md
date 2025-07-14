@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0797-rabbits-in-forest) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |

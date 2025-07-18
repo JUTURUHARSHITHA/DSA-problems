@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0945-snakes-and-ladders) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -736,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |

@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0801-is-graph-bipartite) |
 | [0945-snakes-and-ladders](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1036-rotting-oranges) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1073-number-of-enclaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0801-is-graph-bipartite) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |

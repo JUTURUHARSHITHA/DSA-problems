@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
+| [1813-maximum-erasure-value](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2626-count-the-number-of-good-subarrays) |

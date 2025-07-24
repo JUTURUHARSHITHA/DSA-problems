@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2411-spiral-matrix-iv) |
 | [2479-meeting-rooms-iii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |

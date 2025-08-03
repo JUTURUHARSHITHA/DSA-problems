@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1020-longest-turbulent-subarray](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1020-longest-turbulent-subarray) |
 | [1813-maximum-erasure-value](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |

@@ -1,0 +1,23 @@
+class Solution {
+private:
+    long long countOddNumbers(int n) {
+        return (n + 1) / 2;
+    }
+
+    long long countEvenNumbers(int n) {
+        return n / 2;
+    }
+
+public:
+    long long flowerGame(int n, int m) {
+        long long oddCountN = countOddNumbers(n);
+        long long oddCountM = countOddNumbers(m);
+
+        long long evenCountN = countEvenNumbers(n);
+        long long evenCountM = countEvenNumbers(m);
+
+                long long count = oddCountN * evenCountM + evenCountN * oddCountM;
+
+        return count;
+    }
+};    

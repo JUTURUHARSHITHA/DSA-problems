@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0859-design-circular-deque) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Segment Tree
 |  |
 | ------- |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0729-my-calendar-i) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
@@ -780,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |

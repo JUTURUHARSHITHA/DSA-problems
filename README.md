@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0539-minimum-time-difference) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0326-power-of-three) |

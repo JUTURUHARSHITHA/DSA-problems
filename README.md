@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |

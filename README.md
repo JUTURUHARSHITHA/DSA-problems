@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

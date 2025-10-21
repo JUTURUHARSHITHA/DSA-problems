@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3639-zero-array-transformation-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3827-implement-router) |
 ## Sorting
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3639-zero-array-transformation-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/JUTURUHARSHITHA/DSA-problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search Tree
 |  |
